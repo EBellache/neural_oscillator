@@ -14,7 +14,7 @@ $$
 V_m(0, t) = \eta(t), \quad V_m(L, t) = \eta(t)
 $$
 
-where \( \eta(t) \) is Gaussian noise. This **models randomness** in neural circuits and generates **chaotic oscillations**.
+where $\eta(t)$ is Gaussian noise. This **models randomness** in neural circuits and generates **chaotic oscillations**.
 
 ---
 
